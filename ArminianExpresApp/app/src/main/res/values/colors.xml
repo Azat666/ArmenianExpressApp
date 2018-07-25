@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="collor_bar">#93d7d9</color>
+    <color name="collor_bartext">#07316e</color>
+    <color name="wiht_back">#ffffff</color>
+    <color name="text_bak">#1e378c</color>
+    <color name="item">#d3f7f2</color>
+    <color name="text_coolor">#07316e</color>
+
+</resources>

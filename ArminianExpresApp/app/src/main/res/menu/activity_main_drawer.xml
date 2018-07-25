@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_All"
+            android:icon="@drawable/ic_all"
+            android:title="All" />
+        <item
+            android:id="@+id/nav_watch"
+            android:icon="@drawable/ic_watch"
+            android:title="Watch" />
+        <item
+            android:id="@+id/nav_smartphone"
+            android:icon="@drawable/ic_phone"
+            android:title="SmartPhone" />
+        <item
+            android:id="@+id/nav_computer"
+            android:icon="@drawable/ic_computer"
+            android:title="Computer" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_favorite"
+                android:icon="@drawable/ic_favorite"
+                android:title="Favorite" />
+            <item
+                android:id="@+id/nav_card"
+                android:icon="@drawable/ic_add_shopping_cart_black_24dp"
+                android:title="Card" />
+        </menu>
+    </item>
+
+</menu>
